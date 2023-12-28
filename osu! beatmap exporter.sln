@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "osu! beatmap exporter", "osu! beatmap exporter\osu! beatmap exporter.vbproj", "{44BA2994-EBAA-480C-B12A-345AB15B343F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44BA2994-EBAA-480C-B12A-345AB15B343F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44BA2994-EBAA-480C-B12A-345AB15B343F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44BA2994-EBAA-480C-B12A-345AB15B343F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44BA2994-EBAA-480C-B12A-345AB15B343F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B52BDFF-98BA-4103-901A-BE85A9B6A293}
+	EndGlobalSection
+EndGlobal
